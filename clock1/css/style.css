@@ -44,7 +44,7 @@ section, footer, header, aside {
 #clock {
 	width: 370px;
 	padding: 40px;
-	margin: 200px auto 60px;
+	margin: auto;
 	position: relative;
 }
 
@@ -65,7 +65,6 @@ section, footer, header, aside {
 	padding: 40px 20px 20px;
 	border-radius: 6px;
 	position: relative;
-	height: 54px;
 }
 
 
