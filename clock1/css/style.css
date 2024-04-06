@@ -42,21 +42,14 @@ section, footer, header, aside {
 /* The clock + digits */
 
 #clock {
-	width: 370px;
 	padding: 40px;
-	margin: 200px auto 60px;
 	position: relative;
 }
 
 #clock:after {
 	content: '';
 	position: absolute;
-	width: 400px;
-	height: 20px;
 	border-radius: 100%;
-	left: 50%;
-	margin-left: -200px;
-	bottom:2px;
 	z-index: -1;
 }
 
@@ -65,7 +58,6 @@ section, footer, header, aside {
 	padding: 40px 20px 20px;
 	border-radius: 6px;
 	position: relative;
-	height: 54px;
 }
 
 
